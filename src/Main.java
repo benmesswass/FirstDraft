@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Vehicle car1 = new Car("5 horses", "Bassem" , "Red");
+        Vehicle car1 = new Car("6 horses", "Bassem" , "Red");
         System.out.println(Vehicle.getVehicleNbre());
 
         Vehicle car2 = new Car("4 horses", "Emna" , "pink");
